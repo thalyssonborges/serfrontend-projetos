@@ -4,4 +4,4 @@ Este projeto foi bem desafiador, pois tinha pouco conhecimento e precisei voltar
 
 "Este arquivo foi produzido em novembro/2021 por isso achei interessante relatar as dificuldades que tive ao produzir este projeto na época, já que estou começando agora (dez/2021) a utilizar o GitHub, por esse motivo estou subindo este arquivo atrasado."
 
-#### VEJA AGORA COMO FICOU ESTE PROJETO: https://thalyssonborges.github.io/ProjetoCSS/
+
